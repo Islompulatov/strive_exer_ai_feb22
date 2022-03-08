@@ -6,10 +6,13 @@ pyramid(6)
 
 
 
+from sympy import prime
+
+
 def pyramid1(num):
     for a in range(num):
         for b in range(a+1):
-            print(b, end = " ")
-        print("\n")        
+            print("#", end = "")
+        print("\n")
              
 pyramid1(6)             
