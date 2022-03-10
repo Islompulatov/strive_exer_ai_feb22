@@ -1,3 +1,4 @@
+
 def pyramid(num):
     i =0
     for a in range(1,num+1):
