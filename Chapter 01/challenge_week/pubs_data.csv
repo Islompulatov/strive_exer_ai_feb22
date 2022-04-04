@@ -1,0 +1,241 @@
+pub_names,pub_ratings,pub_price,pub_neighbourhoods,pub_reviews,pub_type
+The Harp,4.5,£,Strand,138,Pubs
+The Queen’s Head,4.5,££,Soho,48,Pubs
+The Victoria,4.5,££,Paddington,226,PubsBritish
+The Queens Arms,4.5,££,Victoria,123,BritishPubsGastropubs
+Mother Mash,4,££,Soho,471,British
+The Monkey Puzzle,4.5,££,Paddington,52,Pubs
+BrewDog,4.5,££,Soho,40,Bars
+Coach and Horses,4,££,Mayfair,27,Pubs
+The Grazing Goat Marylebone,4,££,Marylebone,243,GastropubsBritish
+The Kings Head,5,,Marylebone,5,BarsMarylebone
+Dog & Duck,4,££,Soho,52,Pubs
+Carpenters Arms,4,££,Marylebone,17,Pubs
+The Swan,4,££,Bayswater,116,PubsBritish
+The Shaftesbury,4,,Soho,1,PubsBritishHotelsSoho
+Waxy O’Connor’s,4,££,Leicester Square,168,Irish PubIrishBritish
+Ye Olde Cheshire Cheese,4,££,Blackfriars,357,PubsBritish
+Philomena’s Bar and Cafe,4.5,££,Covent Garden,16,PubsSports Bars
+The Lyric,4.5,££,Soho,43,Bars
+The Churchill Arms,4,££,Notting Hill,358,PubsThai
+Ye Olde Mitre Inn,4.5,££,Farringdon,64,Pubs
+The Toucan,4,££,Soho,38,PubsIrish
+The Knights Templar,4,£,Holborn,44,Pubs
+Cahoots Bar,4.5,££,Soho,107,Bars
+Kings Arms,4,£,Soho,16,PubsGay Bars
+The Cockpit,4.5,£,Blackfriars,20,Pubs
+Lord Nelson,4.5,££,Southwark,55,Pubs
+The Ordnance,4.5,£,St John's Wood,10,Pubs
+Hawksmoor Seven Dials,4.5,£££,Covent Garden,353,BritishSteakhousesCocktail Bars
+The Grafton Arms,4.5,££,Fitzrovia,18,Pubs
+The Kings Arms,4,££,Mayfair,48,PubsBritish
+The Windsor Castle,4.5,££,Westminster,16,Pubs
+The Windmill,4,££,Mayfair,95,PubsBritish
+The Marylebone,4,££,Marylebone,41,Pubs
+Fox & Hounds,4,££,Belgravia,7,Pubs
+The Red Lion,4,££,Westminster,77,Pubs
+The Red Lion,4,££,St James's,31,Pubs
+The Footman,4,££,Mayfair,70,PubsSandwichesWine Bars
+The Harwood Arms,4.5,£££,West Brompton,127,GastropubsBritish
+The Cock & Bottle,4.5,££,Notting Hill,20,Pubs
+The Grenadier,4,££,Belgravia,187,Pubs
+Lamb & Flag,4,££,Covent Garden,140,Pubs
+The Craft Beer Co,4.5,££,Covent Garden,48,Pubs
+The Blackbird,4,££,South Kensington,158,PubsBritishBreakfast & Brunch
+The King’s Head,4,££,Mayfair,21,Pubs
+The Churchill Bar & Terrace,4.5,££££,Marylebone,7,Modern EuropeanCocktail Bars
+The Cavendish,3.5,££,Marylebone,3,Gastropubs
+The Queen’s Arms,4,££,Knightsbridge,129,PubsBritish
+The Cock Tavern,4,££,Fitzrovia,32,Pubs
+The Crown,4,££,Soho,20,Pubs
+The Coach Makers Arms Marylebone,3.5,£££,Marylebone,23,BritishPubs
+Anchor Tap,4,£,Shad Thames,32,Pubs
+The Black Heart,4,££,Camden Town,32,Pubs
+The Coach & Horses,4,££,Bloomsbury,86,Pubs
+The Pig and Butcher,4.5,££,Islington,112,BritishGastropubs
+Fountains Abbey,3.5,££,Paddington,36,Pubs
+The Coach Makers Arms Marylebone,3.5,£££,Marylebone,23,BritishPubs
+Duke Of Wellington,4,££,Soho,36,PubsGay Bars
+Prospect Of Whitby,4,££,Shadwell,56,Pubs
+The Beehive,4,££,Marylebone,27,Gastropubs
+The Punchbowl,4,££,Mayfair,78,Pubs
+Heist Bank,4.5,,Paddington,8,BarsPizzaGastropubsPaddington
+Maggie Jones’s,4.5,£££,Kensington,120,British
+Berners Tavern,4.5,£££,Fitzrovia,121,BritishPubs
+Connaught Bar,4.5,££££,Mayfair,68,Bars
+The Colonel Fawcett,4.5,££,Camden Town,27,Gastropubs
+Princess of Wales,4,££,Primrose Hill,34,PubsBritishVenues & Event Spaces
+THE DUKE OF YORK,4,££,Marylebone,8,PubsGastropubs
+Pieminister,4,£,South Bank,89,British
+Crocker’s Folly,4.5,£££,Lisson Grove,17,BarsLebanese
+Mr Fogg’s Society of Exploration,5,,Strand,16,Cocktail BarsStrand
+Crocker’s Folly,4.5,£££,Lisson Grove,17,BarsLebanese
+The Library Bar,5,£££,Belgravia,14,Wine BarsLounges
+Sussex Arms,3.5,££,Paddington,13,Sports BarsPubs
+Spread Eagle,3.5,££,Camden Town,31,Pubs
+The Barley Mow,3.5,££,Mayfair,23,Pubs
+CASK Pub and Kitchen,4.5,££,Pimlico,139,PubsGastropubs
+O’Neill’s,3.5,££,Chinatown,85,Sports BarsItalian
+The Cock and Lion,3.5,£,Marylebone,15,Pubs
+Cleveland Arms,5,££,Bayswater,9,Pubs
+The Grapes,4,££,Poplar,53,Pubs
+The Wigmore,4.5,,Marylebone,5,PubsMarylebone
+Red Lion,4,££,St James's,17,Pubs
+The Nag’s Head,4,££,Belgravia,42,Pubs
+The Hawley Arms,4,££,Camden Town,84,Pubs
+The World’s End,3.5,££,Camden Town,114,Pubs
+Red Lion,3.5,££,Soho,17,Pubs
+Ship Tavern,4,££,Holborn,94,Pubs
+The Ivy,4,£££,Covent Garden,174,BritishModern European
+The Running Horse,4,££,Mayfair,16,Pubs
+Elephants Head,3.5,££,Camden Town,59,Pubs
+The Ship,4,££,Soho,44,PubsBurgersSandwiches
+The Mason’s Arms,4,£££,Marylebone,4,Pubs
+Salt Bar,4,£££,Paddington,34,RestaurantsBars
+The Dragon Bar,4,££,Hoxton,25,Bars
+Princess Louise,4.5,££,Covent Garden,131,PubsBritish
+Trader Vic’s,3.5,££,Mayfair,47,HawaiianCocktail Bars
+The Pheasant Restaurant,4.5,££,Hayes,199,British
+White Mustache,5,£,Euston,1,Gastropubs
+Market Tavern,4,££,Mayfair,33,Pubs
+The Fitzroy Tavern,4,£,Fitzrovia,40,Pubs
+Coach & Horses,4.5,££,Covent Garden,11,Pubs
+Iron Duke,4,££,Mayfair,9,Pubs
+Prince Of Wales,4,££,Covent Garden,25,Pubs
+The Mayflower,4,££,Rotherhithe,86,Pubs
+The St George’s Tavern,3.5,££,Victoria,80,Pubs
+Lanes of London,3.5,££,Mayfair,15,British
+The Lock Tavern,4,££,Camden Town,94,PubsBritish
+The Social,4,££,Fitzrovia,61,BarsDance ClubsMusic Venues
+The Ship,4.5,£,Fitzrovia,4,Pubs
+Callaghans,3.5,££,Bloomsbury,6,Irish
+The Social,4,££,Fitzrovia,61,BarsDance ClubsMusic Venues
+The Portman,4,££,Marylebone,37,BritishPubsBreakfast & Brunch
+Three Tuns,3.5,££,Marylebone,33,PubsFish & ChipsBurgers
+Windsor Castle,3.5,£,Little Venice,6,Pubs
+The Lamb,4,££,Bloomsbury,62,Pubs
+Museum Tavern,4,££,Bloomsbury,83,Pubs
+Flight Club,4.5,££,Liverpool Street / Broadgate,30,Pubs
+Rules,4,£££,Strand,210,BritishBars
+Carlsberg Sports Bar,3,££,Leicester Square,4,Sports Bars
+King Charles I,4.5,££,King's Cross,15,Pubs
+King Charles I,4.5,££,King's Cross,15,Pubs
+The Alfred Tennyson Belgravia,4,££,Belgravia,27,BritishGastropubsVenues & Event Spaces
+The George Inn,4,££,Borough,141,PubsBritish
+O’Neill’s,3,££,Bloomsbury,40,Pubs
+The Crown and Sceptre,4.5,££,Kensington Olympia,21,Gastropubs
+Tapping The Admiral,4.5,£,Camden Town,19,Pubs
+The Bull,3.5,££,Islington,51,Pubs
+Gordon’s Wine Bar,4.5,££,Strand,412,Wine Bars
+The Clarence,3.5,££,Mayfair,26,Pubs
+The Old School Yard,4.5,££,Borough,43,Cocktail BarsDive BarsPizza
+Stags Head,4,££,Hoxton,7,Pubs
+Gordon’s Wine Bar,4.5,££,Strand,412,Wine Bars
+The Chandos,4,£,Strand,152,PubsBritish
+City Of Quebec,3,££,Marylebone,26,Gay Bars
+Smith & Whistle,4,££,Green Park,17,Pubs
+Duck & Waffle,4,£££,Aldgate,726,Modern EuropeanBarsBritish
+The Warwick,3.5,££,Soho,44,Bars
+Hereford Arms,4,££,South Kensington,103,Pubs
+The Groucho Club,4,£££,Soho,29,Bars
+Buckingham Arms,4,££,Westminster,35,Pubs
+Shepherds Tavern,3.5,££,Mayfair,20,PubsBritish
+The Greyhound,4,££,Kensington,23,Pubs
+Royal Vauxhall Tavern,4,££,Vauxhall,36,Performing ArtsGay BarsMusic Venues
+The Constitution,4,££,Camden Town,12,Pubs
+The Harrison,4,££,Bloomsbury,55,GastropubsBritishBed & Breakfast
+The Blind Pig,4.5,££,Soho,60,Cocktail Bars
+Duke Of York,4,££,Fitzrovia,10,Pubs
+Dublin Castle,3.5,££,Camden Town,53,PubsMusic Venues
+45 Jermyn St,4.5,£££,St James's,32,BarsBreakfast & BrunchAmerican (New)
+Sherlock Holmes,3,££,Strand,198,Pubs
+The Abbey Tavern,4,££,Camden Town,33,Pubs
+The Globe,3,££,Marylebone,45,Pubs
+Calthorpe Arms,4.5,£,Bloomsbury,19,Pubs
+The Salisbury,4,££,Covent Garden,74,Pubs
+Sir Richard Steele,4.5,££,Chalk Farm,26,Pubs
+Lowlander,4,££,Covent Garden,60,PubsBelgian
+Leinster Arms,4,££,Bayswater,44,Pubs
+Duke Of Kendal,4,££,Paddington,28,Pubs
+The Chelsea Pig,4,££,Chelsea,21,Gastropubs
+The Spaniards Inn,4,£££,Hampstead Heath,57,Pubs
+The Chelsea Pig,4,££,Chelsea,21,Gastropubs
+The Spaniards Inn,4,£££,Hampstead Heath,57,Pubs
+The Anglesea Arms,4,££,South Kensington,47,Pubs
+Duke Of York,4,££,St John's Wood,24,Pubs
+The Blue Posts,3,££,St James's,17,PubsBritish
+The Crobar,4,£,Bloomsbury,44,Music VenuesDance ClubsPubs
+Duke of Argyll,4,££,Soho,24,Pubs
+The Black Dog,4,££,Vauxhall,22,Pubs
+The Globe,4.5,£,Lisson Grove,4,Pubs
+The Mirror Bar,3.5,££££,Marylebone,5,Bars
+Golden Eagle,4,££,Marylebone,16,Pubs
+Bourne & Hollingsworth,4,££,Fitzrovia,50,Lounges
+Ye Olde Swiss Cottage,3.5,£,Swiss Cottage,25,Pubs
+Portobello Star,4.5,££,Notting Hill,23,Pubs
+Prince Of Wales,4.5,££,Clapham,20,Pubs
+The Eagle,4,££,Little Venice,5,BarsCoffee & Tea
+The Chapel,4,££,Marylebone,17,Pubs
+The Scarsdale Tavern,4,££,Kensington,59,Pubs
+BrewDog Camden,4,££,Camden Town,67,Bars
+The Adam & Eve,3.5,££,Fitzrovia,20,Gastropubs
+The Princess Victoria,4.5,££,Acton,42,GastropubsVenues & Event SpacesPubs
+Coopers Arms,3.5,££,Chelsea,15,Pubs
+The Walrus Bar and Hostel,4,£,Southwark,24,Pubs
+The Angelic,3.5,££,Islington,49,Pubs
+Fish Bone,4.5,£,Fitzrovia,80,Fish & ChipsBritishSeafood
+Back Room,3.5,££,Mayfair,5,PubsPizzaSports Bars
+North Star,3,,Swiss Cottage,5,PubsSwiss Cottage
+The Wolseley,4,£££,Mayfair,556,CafesBritishTea Rooms
+The Porter House,4,££,Strand,155,PubsIrish
+The King’s Head,4,££,South Kensington,51,Gastropubs
+French House,4,££,Soho,50,Modern EuropeanPubsBritish
+Goat Tavern,4,££,Kensington,28,Pubs
+Goddards at Greenwich,4.5,£,Greenwich,87,British
+The Counting House,4,££,The City,41,BritishPubs
+Exmouth Arms,4,££,Euston,16,Pubs
+Fish Bone,4.5,£,Fitzrovia,80,Fish & ChipsBritishSeafood
+Rileys Sports Bar,2.5,££,Trafalgar Square,20,Sports Bars
+The Adam & Eve,3.5,££,Fitzrovia,20,Gastropubs
+Milk & Honey,4,£££,Soho,74,Social ClubsLounges
+The Stanhope Arms,4,££,South Kensington,94,Pubs
+The Anchor and Hope,4,££,Waterloo,114,British
+Kitty Fisher’s,4.5,££££,Mayfair,22,British
+Fox & Pheasant,4.5,£,West Brompton,3,Pubs
+Crown & Cushion Public House,4,£,Southwark,19,Pubs
+White Horse,3.5,££,Soho,33,Pubs
+The Ladbroke Arms,4,££,Notting Hill,31,Gastropubs
+John Snow,3.5,£,Soho,70,Pubs
+The Mad Bishop & Bear,4,££,Paddington,23,Pubs
+The Barley Mow,3.5,££,Marylebone,15,Pubs
+Simpsons Tavern,4,££,The City,13,BarsDinersBritish
+Simpsons Tavern,4,££,The City,13,BarsDinersBritish
+The Troubadour,4,££,Earls Court,95,Music VenuesCafesDance Clubs
+Founders Arms,4,££,South Bank,101,Pubs
+The Windmill,4,£,Brixton,26,Bars
+The Beachcomber,3.5,££,Bayswater,14,Cocktail BarsCajun/CreoleCaribbean
+The Mitre,4,££,Bayswater,56,Pubs
+The Four Quarters,4,££,Peckham Rye,13,BarsArcades
+The Easton,4.5,££,Clerkenwell,34,PubsGastropubs
+Evans & Peel Detective Agency,4.5,££,Earls Court,84,Cocktail Bars
+Ye Olde Watling,4,££,The City,20,Pubs
+Star Tavern,4,££,Belgravia,17,Pubs
+Dinner by Heston Blumenthal,4.5,££££,Hyde Park,293,British
+Browns Mayfair,4,£££,Mayfair,32,BritishBrasseriesWine Bars
+Royal Exchange,3.5,££,Paddington,4,Pubs
+The Wenlock Arms,4.5,££,Islington,26,Pubs
+Waxy’s Little Sister,4,££,Chinatown,23,Irish Pub
+The Clifton,4.5,££,St John's Wood,5,Pubs
+Nicholson’s,3.5,££,Soho,15,Pubs
+The Westminster,4,££,Westminster,2,Pubs
+Windsor Castle,4,££,Lisson Grove,15,PubsGastropubs
+The Old Queens Head,4,££,Islington,73,Pubs
+The Good Mixer,4,££,Camden Town,44,Pubs
+The George Tavern,4,£,Stepney,18,Dive BarsMusic Venues
+Builders Arms,4,££,Kensington,63,PubsBritish
+The Dove,4,££,Hammersmith,59,Pubs
+The Yard Bar,3.5,££,Soho,34,Gay Bars
+Sawyers Arms,3.5,££,Paddington,27,Pubs
+The Jugged Hare,4,££,Westminster,29,Pubs
+The Old Kings Head,4.5,££,Liverpool Street / Broadgate,2,Pubs
+The Sands End,4,££,Fulham,16,Pubs
