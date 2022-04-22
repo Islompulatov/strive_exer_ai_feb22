@@ -23,20 +23,20 @@ from xgboost               import XGBRegressor
 from lightgbm              import LGBMRegressor
 from catboost              import CatBoostRegressor
 
-data = pd.read_csv(r'data\london_merged.csv')
+data = pd.read_csv(r'Chapter 02/11. Data Enhancement/data/london_merged.csv')
 
 np.random.seed(0)
 
-#target = data['cnt']
-#data = data.drop(['cnt'], axis=1)
+# target = data['cnt']
+# data = data.drop(['cnt'], axis=1)
 
 #Print data shape
-#print(target.shape)
-#print(data.shape)
+# print(target.shape)
+# print(data.shape)
 
 #Take a look at nulls 0 nulls
-#print(target.isnull().sum())
-#print(data.isnull().sum())
+# print(target.isnull().sum())
+# print(data.isnull().sum())
 
 #lets create a 2 new feautures
 # Hour time stamp contains the year and the month,
@@ -97,7 +97,7 @@ print(gen.head(3) )
 
 #final_data = data
 y = data['cnt']
-x = data.drop(['cnt'], axis=1)
+x= data.drop(['cnt'], axis=1)
 
 
 
