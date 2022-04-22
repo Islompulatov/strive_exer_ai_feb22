@@ -25,7 +25,7 @@ from xgboost               import XGBClassifier
 from lightgbm              import LGBMClassifier
 from catboost              import CatBoostClassifier
 
-DATA_PATH = "../../Datasets/Tabular/titanic/"
+DATA_PATH = "C:/Users/asus/Documents/GitHub/strive_exer_ai_feb22/Chapter 02/08. Robust ML/titanic/"
 
 df      = pd.read_csv(DATA_PATH + "train.csv", index_col='PassengerId')
 df_test = pd.read_csv(DATA_PATH + "test.csv",  index_col='PassengerId')
@@ -39,7 +39,7 @@ get_Title_from_Name = None
 
 ### BEGIN SOLUTION
 get_Title_from_Name = lambda name: name.split(',')[1].split('.')[0].strip()
-### END SOLUTION
+
 
 df['Title']      = df['Name'].map(get_Title_from_Name)
 df_test['Title'] = df_test['Name'].map(get_Title_from_Name)
@@ -110,27 +110,26 @@ tree_classifiers = {
 tree_classifiers = {name: pipeline.make_pipeline(tree_prepro, model) for name, model in tree_classifiers.items()}
 
 tree_classifiers["LightGBM"]
-'''
+
 
 x_train, x_val, y_train, y_val = model_selection.train_test_split(
     x, y,
     test_size=0.2,
-    stratify = y,   # ALWAYS RECOMMENDED FOR BETTER VALIDATION
-    random_state=4  # Recommended for reproducibility
+    stratify = y,   
+    random_state=4  
 )
 
 x_train, x_val, y_train, y_val = model_selection.train_test_split(
     x, y,
     test_size=0.2,
-    stratify = y,   # ALWAYS RECOMMENDED FOR BETTER VALIDATION
-    random_state=4  # Recommended for reproducibility
+    stratify = y,   
+    random_state=4 
 )
 
 
-'''
 results = pd.DataFrame({'Model': [], 'Accuracy': [], 'Bal Acc.': [], 'Time': []})
 
-'''
+
 for model_name, model in tree_classifiers.items():
 
     start_time = time.time()
@@ -149,7 +148,7 @@ results_ord = results.sort_values(by=['Accuracy'], ascending=False, ignore_index
 results_ord.index += 1 
 print(results_ord)
 
-'''
+
 
 
 skf = model_selection.StratifiedKFold(n_splits=10, shuffle=True, random_state=0)
@@ -176,3 +175,13 @@ for model_name, model in tree_classifiers.items():
 results_ord = results.sort_values(by=['Accuracy'], ascending=False, ignore_index=True)
 results_ord.index += 1 
 print(results_ord)
+
+
+# Fit best model with all data
+best_model = tree_classifiers['Skl GBM']
+
+best_model.fit(x,y)
+
+test_pred =best_model.predict(x_test)
+sub = pd.DataFrame(test_pred, index=x_test.index, columns=["Survived"])
+sub.to_csv("sub.csv")
