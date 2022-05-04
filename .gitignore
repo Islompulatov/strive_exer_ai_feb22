@@ -151,3 +151,15 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Chapter 02/12. SVM/credit_card/creditcard.csv
+Chapter 02/13. Images/catboost_info/catboost_training.json
+Chapter 02/13. Images/catboost_info/learn/events.out.tfevents
+Chapter 02/13. Images/catboost_info/time_left.tsv
+Chapter 02/13. Images/MNTiS/testSample/img_10.jpg
+*.jpg
+Chapter 02/14. Text Enc/2. Notebooks/imdb.csv
+Chapter 02/14. Text Enc/1. Slides/6. Text Data.pdf
+Chapter 02/13. Images/MNTiS/trainingSet.tar.gz
+Chapter 02/13. Images/MNTiS/testSet.tar.gz
+Chapter 02/13. Images/img_data.csv
+Chapter 02/13. Images/img_data
+Chapter 02/13. Images/catboost_info/learn_error.tsv
