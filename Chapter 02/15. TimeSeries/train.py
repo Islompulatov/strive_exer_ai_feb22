@@ -30,3 +30,27 @@ print(x.shape)
 print(y[0])
 print(y[1])
 print(y[2])
+
+
+
+def getfeatures(data):
+
+    
+    new_data = []
+    
+    for i in range(data.shape[0]):
+
+        group = []   
+    
+        for j in range(data.shape[2]):
+
+            group.append(np.mean(data[i][:, j]))  
+            group.append(np.std(data[i][:, j]))
+            group.append(data[i][:, j][-1])     
+
+        new_data.append(group)
+
+    return np.array(new_data)
+
+
+new_x = getfeatures(x)
