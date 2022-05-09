@@ -44,15 +44,15 @@ def new_features(data):
     
     for i in range(data.shape[0]):
 
-        group = []   
+        new_columns = []   
     
         for j in range(data.shape[2]):
+            new_columns.append(np.median(data[i][:, j]))
+            new_columns.append(np.std(data[i][:, j]))  
+            new_columns.append(np.mean(data[i][:, j]))
+            new_columns.append(data[i][:, j][-1])     
 
-            group.append(np.std(data[i][:, j]))  
-            group.append(np.mean(data[i][:, j]))
-            group.append(data[i][:, j][-1])     
-
-        new_feat.append(group)
+        new_feat.append(new_columns)
     return np.array(new_feat)
     
         
