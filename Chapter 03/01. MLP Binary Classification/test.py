@@ -14,7 +14,7 @@ y = torch.tensor(data[1].values, dtype=torch.float).reshape(-1,1)
 
 class NeuralNetwork(nn.Module):
     def __init__(self, input_dim, num_hidden1, num_hidden2, num_hidden3):
-        super().__init__()
+        super().__init__() 
         self.fc1 = nn.Linear(input_dim, num_hidden1)
         self.fc2 = nn.Linear(num_hidden1, num_hidden2)
         self.fc3 = nn.Linear(num_hidden2,num_hidden3)
@@ -42,7 +42,7 @@ epochs = 500
 for epoch in range(epochs):
 
     pred = model(X)
-    ls = loss(pred, y)
+    ls = loss(y, pred)
     ls.backward()
     optimizer.step()
     optimizer.zero_grad()
