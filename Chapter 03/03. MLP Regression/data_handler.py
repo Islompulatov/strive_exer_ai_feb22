@@ -16,11 +16,11 @@ def load_data(pth):
 
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.1, random_state = 0)
 
-    x_train = torch.tensor(x_train.astype(np.float32))
-    x_test = torch.tensor(x_test.astype(np.float32))
+    x_train = torch.tensor(x_train.astype(np.float64))
+    x_test = torch.tensor(x_test.astype(np.float64))
 
-    y_train = torch.tensor(y_train.astype(np.float32))
-    y_test = torch.tensor(y_test.astype(np.float32))
+    y_train = torch.tensor(y_train.astype(np.float64))
+    y_test = torch.tensor(y_test.astype(np.float64))
 
     return x_train, x_test, y_train, y_test
 
