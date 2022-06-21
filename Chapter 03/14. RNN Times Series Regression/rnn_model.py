@@ -14,7 +14,7 @@ class RNN(nn.Module):
         self.rnn = nn.RNN(input_size=input_size, hidden_size=hidden_size,\
                           num_layers=num_layers, batch_first=True)
         self.fc1 = nn.Linear(self.batch_size * self.hidden_size, 1024)
-        self.fc2 = nn.Linear(1024, self.batch_size * self.hidden_size)
+        self.fc2 = nn.Linear(1024, self.batch_size * seq_len)
 
     def forward(self, x):
         h_0 = T.zeros((self.num_layer, self.batch_size, self.hidden_size))
