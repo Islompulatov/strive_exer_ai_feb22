@@ -21,3 +21,4 @@ class Pyramid():
 
 build_pyr = Pyramid(10)
 build_pyr.reverse_pyramid() 
+    
