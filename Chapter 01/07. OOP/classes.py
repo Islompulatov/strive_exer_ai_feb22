@@ -19,6 +19,6 @@ class Pyramid():
             print()  
             
 
-build_pyr = Pyramid(10)
+build_pyr = Pyramid(12)
 build_pyr.reverse_pyramid() 
     
